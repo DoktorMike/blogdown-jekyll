@@ -10,3 +10,8 @@ tags: []
 ---
 
 # Yay
+
+I will just test what happens with equations.
+
+$$ f(x) = sin(x) $$
+
