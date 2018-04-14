@@ -12,4 +12,5 @@ permalink: /:year/:month/:title.html
 
 # Build settings
 markdown: kramdown
+mathjax: true
 exclude: ['*.Rmd']
