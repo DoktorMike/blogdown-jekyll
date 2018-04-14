@@ -1,17 +1,14 @@
 ---
-title: Just a new test
-author: Michael
-date: '2018-04-14'
-slug: just-a-new-test
-categories:
-  - data science
-  - bayesian
-tags: []
+layout: post
+title:  "Musha"
+categories: [jekyll, rstats]
+tags: [blogdown, knitr, servr, httpuv, websocket]
 ---
 
 # Yay
 
 I will just test what happens with equations.
 
-$$ f(x) = sin(x) $$
+$$ f(x) = sin(x)$$
+$$ \sin(x) = cos(x)$$
 

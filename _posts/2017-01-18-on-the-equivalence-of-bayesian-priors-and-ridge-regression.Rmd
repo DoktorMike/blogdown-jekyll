@@ -1,14 +1,9 @@
 ---
-title: "On the equivalence of Bayesian priors and Ridge regression"
-author: "Dr. Michael Green"
-date: "Jan 18, 2017"
-output: html_document
 layout: post
-published: false
-status: publish
-use_math: true
+title: "On the equivalence of Bayesian priors and Ridge regression"
+categories: [jekyll, rstats]
+tags: [blogdown, knitr, servr, httpuv, websocket]
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
